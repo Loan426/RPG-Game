@@ -6,40 +6,38 @@ public class Player : MonoBehaviour
 {
     private CharacterController controller;
     private Vector3 playerVelocity;
-    private bool groundedPlayer;
-    private float playerSpeed = 2.0f;
-    private float jumpHeight = 1.0f;
+    public bool isGrounded;
+    public float playerSpeed = 5.0f;
+    public float jumpHeight = 3.0f;
     private float gravityValue = -9.81f;
+    
+
+    public Animator animator;
 
     private void Start()
     {
+        //animator = gameObject.GetComponent<Animator>();
         controller = gameObject.GetComponent<CharacterController>();
+
     }
 
-    void Update()
+    private void FixedUpdate()
     {
-        groundedPlayer = controller.isGrounded;
-        if (groundedPlayer && playerVelocity.y < 0)
-        {
-            playerVelocity.y = 0f;
-        }
-
-        Vector3 move = new Vector3(Input.GetAxis("Horizontal"), 0, Input.GetAxis("Vertical"));
-        controller.Move(move * Time.deltaTime * playerSpeed);
-
-        if (move != Vector3.zero)
-        {
-            gameObject.transform.forward = move;
-        }
 
         if (Input.GetButtonDown("Jump")/* && groundedPlayer*/)
         {
             playerVelocity.y += Mathf.Sqrt(jumpHeight * -3.0f * gravityValue);
+            animator.SetTrigger("Jump");
+
         }
 
-        playerVelocity.y += gravityValue * Time.deltaTime;
-        controller.Move(playerVelocity * Time.deltaTime);
+        float gravity = (controller.isGrounded) ? 0 : gravityValue;
+        Vector3 move = new Vector3(Input.GetAxis("Horizontal") * playerSpeed, gravity, Input.GetAxis("Vertical") * playerSpeed);
+
+        controller.Move(move * Time.deltaTime);
+
     }
+   
 }
 
 
