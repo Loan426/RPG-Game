@@ -123,6 +123,9 @@ NavMeshSettings:
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1001 &69970631
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -814,6 +817,12 @@ CharacterController:
   m_MinMoveDistance: 0.001
   m_Center: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 3944593 (Commirt)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
 --- !u!1 &705507993
 GameObject:
   m_ObjectHideFlags: 0
@@ -880,6 +889,9 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 50, y: -30, z: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!1 &743675285
 GameObject:
@@ -980,6 +992,12 @@ Transform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 =======
 >>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -1057,6 +1075,9 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_LocalEulerAnglesHint: {x: 45, y: 0, z: 0}
 --- !u!114 &963194229
@@ -1456,4 +1477,10 @@ Transform:
 >>>>>>> parent of 3944593 (Commirt)
   m_Father: {fileID: 0}
   m_RootOrder: 6
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}

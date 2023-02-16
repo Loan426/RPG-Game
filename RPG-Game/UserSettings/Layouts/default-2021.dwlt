@@ -21,6 +21,9 @@ MonoBehaviour:
   m_ShowMode: 4
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_Title:
   m_RootView: {fileID: 6}
 =======
@@ -30,6 +33,18 @@ MonoBehaviour:
 >>>>>>> parent of 3944593 (Commirt)
   m_RootView: {fileID: 7}
 >>>>>>> parent of 095248e (commit)
+=======
+  m_Title:
+  m_RootView: {fileID: 6}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_Title:
+  m_RootView: {fileID: 6}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_Title:
+  m_RootView: {fileID: 6}
+>>>>>>> parent of 4864f3d (Commit)
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
   m_Maximized: 0
@@ -41,6 +56,9 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_EditorHideFlags: 0
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
@@ -70,6 +88,12 @@ MonoBehaviour:
   m_Enabled: 1
 =======
 >>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
   m_EditorHideFlags: 1
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name:
@@ -89,8 +113,17 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   controlID: 15
 =======
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
   controlID: 119
 --- !u!114 &3
 MonoBehaviour:
@@ -118,6 +151,9 @@ MonoBehaviour:
   - {fileID: 13}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 4864f3d (Commit)
 =======
   controlID: 16
@@ -125,6 +161,12 @@ MonoBehaviour:
 =======
   controlID: 21
 >>>>>>> parent of 3944593 (Commirt)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -143,6 +185,9 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     width: 453
     height: 947
 <<<<<<< HEAD
@@ -151,14 +196,29 @@ MonoBehaviour:
 <<<<<<< HEAD
   m_ActualView: {fileID: 15}
 =======
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
     width: 228
     height: 394
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_MinSize: {x: 275, y: 50}
   m_MaxSize: {x: 4000, y: 4000}
 >>>>>>> parent of 3944593 (Commirt)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
   m_ActualView: {fileID: 14}
 >>>>>>> parent of 4864f3d (Commit)
 =======
@@ -185,6 +245,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     y: 0
     width: 363
     height: 561
@@ -208,6 +271,39 @@ MonoBehaviour:
 =======
   - {fileID: 15}
 >>>>>>> parent of 095248e (commit)
+=======
+    y: 394
+    width: 921
+    height: 271
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 12}
+  - {fileID: 17}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    y: 394
+    width: 921
+    height: 271
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 12}
+  - {fileID: 17}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    y: 394
+    width: 921
+    height: 271
+  m_MinSize: {x: 231, y: 271}
+  m_MaxSize: {x: 10001, y: 10021}
+  m_ActualView: {fileID: 12}
+  m_Panes:
+  - {fileID: 12}
+  - {fileID: 17}
+>>>>>>> parent of 4864f3d (Commit)
   m_Selected: 0
   m_LastSelected: 1
 --- !u!114 &6
@@ -230,6 +326,9 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     y: 561
     width: 1467
     height: 386
@@ -242,11 +341,26 @@ MonoBehaviour:
   m_Selected: 1
   m_LastSelected: 0
 =======
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
     y: 0
     width: 1206
     height: 715
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
 >>>>>>> parent of 4864f3d (Commit)
 --- !u!114 &7
 MonoBehaviour:
@@ -337,6 +451,9 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     width: 1467
     height: 947
   m_MinSize: {x: 300, y: 200}
@@ -346,12 +463,21 @@ MonoBehaviour:
 <<<<<<< HEAD
   controlID: 16
 =======
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
     width: 921
     height: 394
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
   controlID: 93
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 4864f3d (Commit)
 =======
   controlID: 17
@@ -359,6 +485,12 @@ MonoBehaviour:
 =======
   controlID: 471
 >>>>>>> parent of 3944593 (Commirt)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -377,6 +509,9 @@ MonoBehaviour:
     x: 228
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     width: 1467
     height: 561
   m_MinSize: {x: 300, y: 100}
@@ -386,6 +521,12 @@ MonoBehaviour:
 <<<<<<< HEAD
   controlID: 54
 =======
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
     width: 693
     height: 394
   m_MinSize: {x: 202, y: 221}
@@ -396,6 +537,9 @@ MonoBehaviour:
   - {fileID: 16}
   m_Selected: 0
   m_LastSelected: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> parent of 4864f3d (Commit)
 =======
   controlID: 18
@@ -403,6 +547,12 @@ MonoBehaviour:
 =======
   controlID: 472
 >>>>>>> parent of 3944593 (Commirt)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -412,6 +562,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: SceneView
@@ -442,6 +595,45 @@ MonoBehaviour:
     m_Tooltip:
   m_Pos:
     serializedVersion: 2
+=======
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip:
+  m_Pos:
+    serializedVersion: 2
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip:
+  m_Pos:
+    serializedVersion: 2
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_Script: {fileID: 12014, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name:
+  m_EditorClassIdentifier:
+  m_MinSize: {x: 230, y: 250}
+  m_MaxSize: {x: 10000, y: 10000}
+  m_TitleContent:
+    m_Text: Project
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip:
+  m_Pos:
+    serializedVersion: 2
+>>>>>>> parent of 4864f3d (Commit)
     x: 2249
     y: 726.5
     width: 920
@@ -558,6 +750,15 @@ MonoBehaviour:
     m_GridSize: 64
   m_SkipHiddenPackages: 0
   m_DirectoriesAreaWidth: 207
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
 >>>>>>> parent of 4864f3d (Commit)
 --- !u!114 &13
 MonoBehaviour:
@@ -585,6 +786,15 @@ MonoBehaviour:
     height: 644
   m_ViewDataDictionary: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization:
   m_PreviewResizer:
@@ -595,6 +805,9 @@ MonoBehaviour:
   m_LastVerticalScrollValue: 0
   m_AssetGUID:
   m_InstanceID: 0
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -716,6 +929,18 @@ MonoBehaviour:
 <<<<<<< HEAD
 --- !u!114 &15
 =======
+=======
+  m_LockTracker:
+    m_IsLocked: 0
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_LockTracker:
+    m_IsLocked: 0
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_LockTracker:
+    m_IsLocked: 0
+>>>>>>> parent of 4864f3d (Commit)
   m_PreviewWindow: {fileID: 0}
 --- !u!114 &14
 >>>>>>> parent of 4864f3d (Commit)
@@ -730,6 +955,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
   m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -774,6 +1002,12 @@ MonoBehaviour:
   m_EditorHideFlags: 1
 =======
 >>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
   m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
   m_Name:
   m_EditorClassIdentifier:
@@ -793,6 +1027,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       m_SelectedIDs:
@@ -824,6 +1061,33 @@ MonoBehaviour:
         m_Name: 
         m_OriginalName: 
 >>>>>>> parent of 095248e (commit)
+=======
+      m_SelectedIDs:
+      m_LastClickedID: 0
+      m_ExpandedIDs: 42fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name:
+        m_OriginalName:
+>>>>>>> parent of 4864f3d (Commit)
+=======
+      m_SelectedIDs:
+      m_LastClickedID: 0
+      m_ExpandedIDs: 42fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name:
+        m_OriginalName:
+>>>>>>> parent of 4864f3d (Commit)
+=======
+      m_SelectedIDs:
+      m_LastClickedID: 0
+      m_ExpandedIDs: 42fbffff
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name:
+        m_OriginalName:
+>>>>>>> parent of 4864f3d (Commit)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -837,11 +1101,26 @@ MonoBehaviour:
         m_IsRenamingFilename: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
         m_ClientGUIView: {fileID: 5}
 =======
         m_ClientGUIView: {fileID: 4}
 >>>>>>> parent of 3944593 (Commirt)
       m_SearchString: 
+=======
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString:
+>>>>>>> parent of 4864f3d (Commit)
+=======
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString:
+>>>>>>> parent of 4864f3d (Commit)
+=======
+        m_ClientGUIView: {fileID: 0}
+      m_SearchString:
+>>>>>>> parent of 4864f3d (Commit)
 =======
         m_ClientGUIView: {fileID: 0}
       m_SearchString:
@@ -854,6 +1133,9 @@ MonoBehaviour:
   m_WindowGUID: 4c969a2b90040154d917609493e03593
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &17
 =======
 --- !u!114 &15
@@ -861,6 +1143,15 @@ MonoBehaviour:
 =======
 --- !u!114 &16
 >>>>>>> parent of 095248e (commit)
+=======
+--- !u!114 &15
+>>>>>>> parent of 4864f3d (Commit)
+=======
+--- !u!114 &15
+>>>>>>> parent of 4864f3d (Commit)
+=======
+--- !u!114 &15
+>>>>>>> parent of 4864f3d (Commit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -899,6 +1190,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.35751456, y: 0.9081859, z: -1.2501576}
     speed: 2
     m_Value: {x: 0.35751456, y: 0.9081859, z: -1.2501576}
@@ -917,6 +1211,21 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -2.9392123, y: -4.205416, z: 5.4545135}
 >>>>>>> parent of 3944593 (Commirt)
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    m_Target: {x: 0, y: 0, z: 0}
+    speed: 2
+    m_Value: {x: 0, y: 0, z: 0}
+>>>>>>> parent of 4864f3d (Commit)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -965,6 +1274,9 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.047697455, y: -0.15607777, z: 0.007545964, w: -0.9865683}
 =======
     m_Target: {x: -0.16406526, y: -0.07627123, z: 0.012724515, w: -0.98341805}
@@ -972,11 +1284,23 @@ MonoBehaviour:
 =======
     m_Target: {x: -0.122169405, y: 0.11495766, z: -0.014247337, w: -0.9857274}
 >>>>>>> parent of 3944593 (Commirt)
+=======
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
+>>>>>>> parent of 4864f3d (Commit)
     speed: 2
-    m_Value: {x: -0.12216927, y: 0.114957534, z: -0.014247322, w: -0.98572636}
+    m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
-    m_Target: 11.1981735
+    m_Target: 10
     speed: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_Value: 3.529795
@@ -995,6 +1319,15 @@ MonoBehaviour:
 =======
     m_Value: 11.1981735
 >>>>>>> parent of 3944593 (Commirt)
+=======
+    m_Value: 10
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    m_Value: 10
+>>>>>>> parent of 4864f3d (Commit)
+=======
+    m_Value: 10
+>>>>>>> parent of 4864f3d (Commit)
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1021,6 +1354,9 @@ MonoBehaviour:
   m_ViewIsLockedToObject: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!114 &18
 =======
 --- !u!114 &16
@@ -1028,6 +1364,15 @@ MonoBehaviour:
 =======
 --- !u!114 &17
 >>>>>>> parent of 095248e (commit)
+=======
+--- !u!114 &16
+>>>>>>> parent of 4864f3d (Commit)
+=======
+--- !u!114 &16
+>>>>>>> parent of 4864f3d (Commit)
+=======
+--- !u!114 &16
+>>>>>>> parent of 4864f3d (Commit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1049,6 +1394,9 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     x: 913
 =======
     x: 887
@@ -1057,10 +1405,25 @@ MonoBehaviour:
     width: 578
     height: 540
 =======
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
     x: 507
     y: 94
     width: 1532
     height: 790
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
 >>>>>>> parent of 4864f3d (Commit)
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewsNames: []
@@ -1071,6 +1434,9 @@ MonoBehaviour:
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 552, y: 519}
 =======
   m_TargetSize: {x: 640, y: 480}
@@ -1078,6 +1444,15 @@ MonoBehaviour:
 =======
   m_TargetSize: {x: 578, y: 519}
 >>>>>>> parent of 095248e (commit)
+=======
+  m_TargetSize: {x: 640, y: 480}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_TargetSize: {x: 640, y: 480}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+  m_TargetSize: {x: 640, y: 480}
+>>>>>>> parent of 4864f3d (Commit)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 0
@@ -1094,6 +1469,9 @@ MonoBehaviour:
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -276
     m_HBaseRangeMax: 276
 =======
@@ -1103,10 +1481,25 @@ MonoBehaviour:
     m_VBaseRangeMin: -259.5
     m_VBaseRangeMax: 259.5
 =======
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
     m_HBaseRangeMin: -766
     m_HBaseRangeMax: 766
     m_VBaseRangeMin: -395
     m_VBaseRangeMax: 395
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
+>>>>>>> parent of 4864f3d (Commit)
+=======
 >>>>>>> parent of 4864f3d (Commit)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
@@ -1125,6 +1518,9 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
       y: 21
       width: 578
       height: 519
@@ -1142,12 +1538,36 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 289, y: 259.5}
 >>>>>>> parent of 095248e (commit)
+=======
+      y: 0
+      width: 1532
+      height: 790
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 766, y: 395}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+      y: 0
+      width: 1532
+      height: 790
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 766, y: 395}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+      y: 0
+      width: 1532
+      height: 790
+    m_Scale: {x: 1, y: 1}
+    m_Translation: {x: 766, y: 395}
+>>>>>>> parent of 4864f3d (Commit)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
       x: -276
@@ -1173,11 +1593,41 @@ MonoBehaviour:
 =======
   m_LastWindowPixelSize: {x: 578, y: 540}
 >>>>>>> parent of 095248e (commit)
+=======
+      x: -766
+      y: -395
+      width: 1532
+      height: 790
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1532, y: 790}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+      x: -766
+      y: -395
+      width: 1532
+      height: 790
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1532, y: 790}
+>>>>>>> parent of 4864f3d (Commit)
+=======
+      x: -766
+      y: -395
+      width: 1532
+      height: 790
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1532, y: 790}
+>>>>>>> parent of 4864f3d (Commit)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
   m_XRRenderMode: 0
   m_RenderTexture: {fileID: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &19
@@ -1187,6 +1637,15 @@ MonoBehaviour:
 =======
 --- !u!114 &18
 >>>>>>> parent of 095248e (commit)
+=======
+--- !u!114 &17
+>>>>>>> parent of 4864f3d (Commit)
+=======
+--- !u!114 &17
+>>>>>>> parent of 4864f3d (Commit)
+=======
+--- !u!114 &17
+>>>>>>> parent of 4864f3d (Commit)
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
